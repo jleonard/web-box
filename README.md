@@ -5,8 +5,9 @@ A virtual machine to provision a baseline web development environment.
 
 # Getting Started 
 
-Install [Vagrant](http://downloads.vagrantup.com/)
-Clone this repo into a directory.
+1. Install [Vagrant](http://downloads.vagrantup.com/)
+2. Clone this repo into a directory.
+3. 
 ```bash
 vagrant up
 ```

@@ -6,6 +6,10 @@ A virtual machine to provision a baseline web development environment.
 # Getting Started 
 
 Install [Vagrant](http://downloads.vagrantup.com/)
+Clone this repo into a directory.
+```bash
+vagrant up
+```
 
 # What's included
 

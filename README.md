@@ -1,6 +1,8 @@
 web-box
 =======
 
+A virtual machine to provision a baseline web development environment.
+
 # Getting Started 
 
 Install [Vagrant](http://downloads.vagrantup.com/)

@@ -16,6 +16,6 @@ Install [Vagrant](http://downloads.vagrantup.com/)
 * [Bower](http://bower.io/)
 * [Yeoman](http://yeoman.io/)
 * [tree command](http://en.wikipedia.org/wiki/Tree_(Unix))
-* [generator-leonard](https://github.com/jleonard/generator-leonard)
+* [generator-leonard * yeoman project generator](https://github.com/jleonard/generator-leonard)
 
 

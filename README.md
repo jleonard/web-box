@@ -8,7 +8,7 @@ A virtual machine to provision a baseline web development environment.
 1. Install [Vagrant](http://downloads.vagrantup.com/)
 2. Clone this repo into a directory.
 3. 
-```bash
+```
 vagrant up
 ```
 

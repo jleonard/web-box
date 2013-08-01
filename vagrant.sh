@@ -30,12 +30,3 @@ npm install -g yo grunt-cli bower docpad express node-dev forever
 
 sudo apt-get -y install tree
 
-
-cd /home/vagrant
-mkdir yeoman-generators
-cd yeoman-generators
-git clone https://github.com/jleonard/generator-leonard.git
-cd generator-leonard
-npm link
-
-

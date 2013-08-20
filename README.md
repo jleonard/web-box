@@ -23,7 +23,7 @@ vagrant up
 * [Bower](http://bower.io/)
 * [Yeoman](http://yeoman.io/)
 * [Docpad](http://docpad.org/)
-* [tree command](http://en.wikipedia.org/wiki/Tree_(Unix))
+* [tree ](http://en.wikipedia.org/wiki/Tree_Unix)
 * npm packages [express](http://expressjs.com/) [node-dev](https://github.com/fgnass/node-dev) [forever](https://npmjs.org/package/forever)
 
 

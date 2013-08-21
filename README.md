@@ -5,9 +5,9 @@ A virtual machine to provision a baseline web development environment.
 
 # Getting Started 
 
-1. Install [Vagrant](http://downloads.vagrantup.com/)
-2. Clone this repo into a directory.
-3. 
+1. Install [VirtualBox](https://www.virtualbox.org/)
+2. Install [Vagrant](http://downloads.vagrantup.com/)
+3. Clone this repo into a directory.
 ```
 vagrant up
 ```

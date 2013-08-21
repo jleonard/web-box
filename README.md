@@ -5,17 +5,17 @@ A virtual machine to provision a baseline web development environment.
 
 # Getting Started 
 
-1. Install [VirtualBox](https://www.virtualbox.org/)
-2. Install [Vagrant](http://downloads.vagrantup.com/)
-3. Clone this repo into a directory.  
-4. Run...
-```bash
+* Install [VirtualBox](https://www.virtualbox.org/)
+* Install [Vagrant](http://downloads.vagrantup.com/)
+* Clone this repo into a directory.  
+* Run...  
+* ```bash
 vagrant up
 ```
-5. Once the VM has been setup login and navigate to the shared directory (the directory of files and folders your host computer shares with the VM)
-```bash
-vagrant ssh
-cd ../../vagrant
+* Once the VM has been setup login and navigate to the shared directory (the directory of files and folders your host computer shares with the VM)  
+* ```bash
+vagrant ssh  
+cd ../../vagrant  
 ls
 ```
 

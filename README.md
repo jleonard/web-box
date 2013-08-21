@@ -8,16 +8,9 @@ A virtual machine to provision a baseline web development environment.
 * Install [VirtualBox](https://www.virtualbox.org/)
 * Install [Vagrant](http://downloads.vagrantup.com/)
 * Clone this repo into a directory.  
-* Run...  
-* ```bash
-vagrant up
-```
-* Once the VM has been setup login and navigate to the shared directory (the directory of files and folders your host computer shares with the VM)  
-* ```bash
-vagrant ssh  
-cd ../../vagrant  
-ls
-```
+* ```bash vagrant up```
+* Wait patiently for the VM to build.
+* ```bash vagrant ssh  && cd ../../vagrant  && ls```
 
 ###### The VM is configured to run on port 8080
 

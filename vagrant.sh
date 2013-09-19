@@ -26,7 +26,9 @@ cd casperjs
 git checkout tags/1.0.2
 ln -sf `pwd`/bin/casperjs /usr/local/bin/casperjs
 
-npm install -g yo grunt-cli bower docpad express node-dev forever
+sudo apt-get install -y graphicsmagick
+
+npm install -g yo grunt-cli bower docpad express node-dev forever huxley selenium-server
 
 sudo apt-get -y install tree
 

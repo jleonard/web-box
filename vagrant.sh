@@ -9,12 +9,12 @@ sudo apt-get update
 sudo apt-get install -y python-software-properties python g++ make
 sudo apt-get install -y software-properties-common
 sudo add-apt-repository ppa:chris-lea/node.js
-sudo apt-get update
+#sudo apt-get update
 sudo apt-get install -y nodejs
 
 sudo apt-get install -y git
 
-sudo apt-get update
+#sudo apt-get update
 sudo apt-get install -y build-essential chrpath git-core libssl-dev libfontconfig1-dev
 git clone git://github.com/ariya/phantomjs.git
 cd phantomjs
@@ -26,11 +26,11 @@ cd casperjs
 git checkout tags/1.0.2
 ln -sf `pwd`/bin/casperjs /usr/local/bin/casperjs
 
-sudo apt-get install -y firefox
+#sudo apt-get install -y firefox
 
-sudo apt-get install -y openjdk-6-jre
+#sudo apt-get install -y openjdk-6-jre
 
-sudo apt-get install -y graphicsmagick
+#sudo apt-get install -y graphicsmagick
 
 npm install -g yo grunt-cli bower docpad express node-dev forever huxley selenium-server
 

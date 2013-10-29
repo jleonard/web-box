@@ -1,0 +1,17 @@
+# osx noise
+.DS_Store
+profile
+ 
+# svn & cvs
+.svn
+CVS
+ 
+# textmate
+*.tmproj
+*.tmproject
+tmtags
+ 
+*.log
+node_modules
+
+.vagrant

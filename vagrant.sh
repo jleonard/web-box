@@ -5,7 +5,6 @@ apt-get install -y apache2
 rm -rf /var/www
 ln -fs /vagrant /var/www
 
-sudo apt-get update
 sudo apt-get install -y build-essential curl chrpath git-core openssl libssl-dev libfontconfig1-dev
 
 sudo apt-get install -y git

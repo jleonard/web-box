@@ -3,7 +3,7 @@ web-box
 
 A virtual machine to provision a baseline web development environment.
 
-# New in 0.0.2
+### New in 0.0.2
 Adding [gulp](http://gulpjs.com/) and [jade](http://jade-lang.com/) to the npm packages.
 
 # Getting Started 

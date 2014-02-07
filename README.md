@@ -11,9 +11,9 @@ Adding [gulp](http://gulpjs.com/) and [jade](http://jade-lang.com/) to the npm p
 * Install [VirtualBox](https://www.virtualbox.org/)
 * Install [Vagrant](http://downloads.vagrantup.com/)
 * Clone this repo into a directory.  
-* ```bash vagrant up```
+* ```vagrant up```
 * Wait patiently for the VM to build.
-* ```bash vagrant ssh  && cd ../../vagrant  && ls```
+* ```vagrant ssh  && cd ../../vagrant  && ls```
 
 ###### The VM is configured to run on port 8080
 

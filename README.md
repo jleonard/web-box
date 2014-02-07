@@ -3,6 +3,9 @@ web-box
 
 A virtual machine to provision a baseline web development environment.
 
+# New in 0.0.2
+Adding [gulp](http://gulpjs.com/) and [jade](http://jade-lang.com/) to the npm packages.
+
 # Getting Started 
 
 * Install [VirtualBox](https://www.virtualbox.org/)
@@ -22,10 +25,11 @@ A virtual machine to provision a baseline web development environment.
 * [Phantomjs](http://phantomjs.org/)
 * [Casperjs](http://casperjs.org/)
 * [Grunt cli](http://gruntjs.com/getting-started)
+* [Gulp](http://gruntjs.com/getting-started)
 * [Bower](http://bower.io/)
 * [Yeoman](http://yeoman.io/)
 * [Docpad](http://docpad.org/)
 * [tree ](http://bit.ly/PGVXlw)
-* npm packages [express](http://expressjs.com/) [node-dev](https://github.com/fgnass/node-dev) [forever](https://npmjs.org/package/forever)
+* npm packages [express](http://expressjs.com/) [node-dev](https://github.com/fgnass/node-dev) [forever](https://npmjs.org/package/forever) [jade](http://jade-lang.com/)
 
 

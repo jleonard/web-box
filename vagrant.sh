@@ -18,7 +18,7 @@ sudo make install
 
 curl http://npmjs.org/install.sh | sudo sh
 
-npm install -g yo bower docpad express forever grunt-cli gulp jade less node-dev selenium-server
+npm install -g yo bower docpad express forever grunt-cli gulp harp jade less node-dev selenium-server
 
 git clone git://github.com/ariya/phantomjs.git
 cd phantomjs

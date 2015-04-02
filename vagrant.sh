@@ -1,9 +1,16 @@
 #!/usr/bin/env bash
 
 apt-get update
-apt-get install -y apache2
+apt-get install -y nginx-extras 
 rm -rf /var/www
 ln -fs /vagrant /var/www
+
+
+sudo cp /vagrant/nginx.conf /etc/nginx/sites-available/localdev
+sudo unlink /etc/nginx/sites-enabled/default
+sudo ln -s /etc/nginx/sites-available/localdev /etc/nginx/sites-enabled/localdev
+
+sudo service nginx restart
 
 sudo apt-get install -y build-essential curl chrpath git-core openssl libssl-dev libfontconfig1-dev
 
